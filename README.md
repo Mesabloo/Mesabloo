@@ -18,7 +18,7 @@ I further evolved into making more unfinished programming languages! :tada:
   It was still C++, but much less crappy than before. It used [ANTLR](https://www.antlr.org/) for the parsing, and [LLVM](https://llvm.org/) for the code generation and executable creation. The code is available [here](https://github.com/mesabloo/snowstar).
   
 - I then stopped Snow\*, especially from lack of motivation...and started a new programming language about 4 months after. It was named “Blob”, and was meant to guarantee type- and data-safety through the use of complex types (see “Quantitative Type Theory” on google).
-  It was the first time I used Haskell, because something recommended it to me. I ended up enjoying my time with this new programming language I didn't know.
+  It was the first time I used Haskell, because someone recommended it to me. I ended up enjoying my time with this new programming language I didn't know.
   The language got to a stage where I dropped some features, even before trying to implement them (like the QTT), because of how complicated things would become.
   I later renamed the language “Nihil”, in reference to the fact that's there nothing usable in this programming language.
   
