@@ -20,11 +20,11 @@ I further evolved into making more unfinished programming languages! :tada:
 - I then stopped Snow\*, especially from lack of motivation...and started a new programming language about 4 months after. It was named “Blob”, and was meant to guarantee type- and data-safety through the use of complex types (see “Quantitative Type Theory” on google).
   It was the first time I used Haskell, because something recommended it to me. I ended up enjoying my time with this new programming language I didn't know.
   The language got to a stage where I dropped some features, even before trying to implement them (like the QTT), because of how complicated things would become.
-  I later renamed the language “Nihil”, in reference of the fact that's there nothing usable in this programming language.
+  I later renamed the language “Nihil”, in reference to the fact that's there nothing usable in this programming language.
   
   The repository ([this one](https://github.com/mesabloo/nihil)) is currently the holder of the most :star: on my profile!
   
-I also have some other side projects, like my custom [virtual CPU](https://github.com/mesabloo/vcpu) or my [Haskell assembly DSL](https://github.com/mesabloo/hasm).
+I also have some other side projects, like my custom [virtual CPU](https://github.com/mesabloo/vcpu) or my [Haskell assembly DSL](https://github.com/mesabloo/hasm). But there is even more to see [here](https://github.com/Mesabloo?tab=repositories)!
 
 #### And I do have some other hobbies!
 
