@@ -23,7 +23,8 @@ I further evolved into making more unfinished programming languages! :tada:
   The language (Blob) got to a stage where I dropped some features, even before trying to implement them (like the QTT), because of how complicated things would become.
   I later renamed the language “Nihil”, in reference to the fact that's there nothing usable in this programming language.
   
-  The repository ([this one](https://github.com/mesabloo/nihil)) is currently the holder of the most :star: on my profile!
+  ~~The repository ([this one](https://github.com/mesabloo/nihil)) is currently the holder of the most :star: on my profile!~~
+  The repository has been moved [here](https://github.com/zilch-lang). The language has also been renamed to “Zilch”, which literally means “nothing”, in English.
   
 I also have some other side projects, like my custom [virtual CPU](https://github.com/mesabloo/vcpu) or my [Haskell assembly DSL](https://github.com/mesabloo/hasm). But there is even more to see [here](https://github.com/Mesabloo?tab=repositories)!
 
