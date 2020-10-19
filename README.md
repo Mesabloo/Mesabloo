@@ -26,7 +26,17 @@ I further evolved into making more unfinished programming languages! :tada:
   ~~The repository ([this one](https://github.com/mesabloo/nihil)) is currently the holder of the most :star: on my profile!~~
   The repository has been moved [here](https://github.com/zilch-lang). The language has also been renamed to “Zilch”, which literally means “nothing”, in English.
   
-I also have some other side projects, like my custom [virtual CPU](https://github.com/mesabloo/vcpu) or my [Haskell assembly DSL](https://github.com/mesabloo/hasm). But there is even more to see [here](https://github.com/Mesabloo?tab=repositories)!
+- My new project, [Zilch](https://github.com/zilch-lang/gzc) is mostly a rework of Nihil. Things did not end well for it (the code is still available [here](https://github.com/mesabloo/nihil_old)). To keep things short:
+  - my motivation decreased quite a lot
+  - I worked on another project
+  - the code written was undocumented and not necessarily easy to maintain if ever I had to
+  - I worked alone
+  - nobody had interest anymore in it. 
+  
+  So I restarted everything, again...
+  I now plan on creating another monstrosity: a low-level functional programming language inspired by Haskell and Rust, featuring type- and data-safety through linear types and such, a typesafe embedding of a typed assembly language named [N*](https://github.com/zilch-lang/nsc), and compiling to N*.
+  
+I also have some other side projects, like my custom [virtual CPU](https://github.com/mesabloo/vcpu) or my [Haskell assembly DSL](https://github.com/mesabloo/hasm). But there is even more to see [here](https://github.com/Mesabloo?tab=repositories)! (where in fact most of the projects have been left behind)
 
 #### And I do have some other hobbies!
 
@@ -34,7 +44,12 @@ Even though I waste most of my time behing my screen, on my keyboard, I also enj
 
 #### Anything to add?
 
-Yes! There is something I want to add, which I believe is important: you are beautiful the way you are. Don't ever change if you don't want to, and never feel obliged to change for somebody. That's how it gets wrong. :kissing:
+The "place" you belong to is not necessarily a physical place. Some people may find that they feel well on Discord in some specific servers, others may find that living close to their close friends is what makes them enjoy life.
+
+But I believe that you should not have to find this "place". This place should first be your heart. You are the only one able to love you as much as you may want to. Loving yourself is not about loving every single part of you, every little part that makes you what you are. It instead is about knowing that you are not flawless, and accepting those flaws, accepting those as parts of yourself.
+Self-hatred is not what you should feel. Self-hatred is some kind of disease, but one you cannot cure easily (if even at all). Just learn to love yourself (or at least try), instead of relying on "how you always felt like" and giving you blame for it. This is more important than everything else.
+
+##### Learn to love yourself as you are, and people will start loving yourself for who you really are, and not the one you pretend to be.
 
 <!--
 **Mesabloo/Mesabloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
