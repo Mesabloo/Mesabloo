@@ -13,9 +13,13 @@ I further evolved into making more unfinished programming languages! :tada:
   It was originally named “#\*”, but was later renamed into “Snow\*”. The repository is available [here](https://github.com/mesabloo/snowstar_old).
   
   At that time I didn't know C++ really well, but I think I ended up with something not quite bad.
+
+  [![sharpstar repository](https://github-readme-stats.vercel.app/api/pin/?username=mesabloo&repo=snowstar_old&show_owner=true&theme=graywhite)](https://github.com/mesabloo/snowstar_old)
   
 - After upgrading the language for about 2 months, I decided to restart the project from scratch, into another direction. That's where the last Snow\* got to life.
   It was still C++, but much less crappy than before. It used [ANTLR](https://www.antlr.org/) for the parsing, and [LLVM](https://llvm.org/) for the code generation and executable creation. The code is available [here](https://github.com/mesabloo/snowstar).
+
+  [![snowstar repository](https://github-readme-stats.vercel.app/api/pin/?username=mesabloo&repo=snowstar&show_owner=true&theme=graywhite)](https://github.com/mesabloo/snowstar)
   
 - I then stopped Snow\*, especially from lack of motivation...and started a new programming language about 4 months after. It was named “Blob”, and was meant to guarantee type- and data-safety through the use of complex types (see “Quantitative Type Theory” on google).
   It was the first time I used Haskell, because someone recommended it to me. I ended up enjoying my time with this new programming language I didn't know.
@@ -26,6 +30,8 @@ I further evolved into making more unfinished programming languages! :tada:
   ~~The repository ([this one](https://github.com/mesabloo/nihil)) is currently the holder of the most :star: on my profile!~~
   The repository has been moved [here](https://github.com/zilch-lang). The language has also been renamed to “Zilch”, which literally means “nothing”, in English.
   
+  [![nihil repository](https://github-readme-stats.vercel.app/api/pin/?username=mesabloo&repo=nihil_old&show_owner=true&theme=graywhite)](https://github.com/mesabloo/nihil_old)
+  
 - My new project, [Zilch](https://github.com/zilch-lang/gzc) is mostly a rework of Nihil. Things did not end well for it (the code is still available [here](https://github.com/mesabloo/nihil_old)). To keep things short:
   - my motivation decreased quite a lot
   - I worked on another project
@@ -35,12 +41,18 @@ I further evolved into making more unfinished programming languages! :tada:
   
   So I restarted everything, again...
   I now plan on creating another monstrosity: a low-level functional programming language inspired by Haskell and Rust, featuring type- and data-safety through linear types and such, a typesafe embedding of a typed assembly language named [N*](https://github.com/zilch-lang/nsc), and compiling to N*.
+
+  [![zilch repository](https://github-readme-stats.vercel.app/api/pin/?username=zilch-lang&repo=gzc&show_owner=true&theme=graywhite)](https://github.com/zilch-lang/gzc) [![nstar repository](https://github-readme-stats.vercel.app/api/pin/?username=zilch-lang&repo=nsc&show_owner=true&theme=graywhite)](https://github.com/zilch-lang/nsc)
   
 I also have some other side projects, like my custom [virtual CPU](https://github.com/mesabloo/vcpu) or my [Haskell assembly DSL](https://github.com/mesabloo/hasm). But there is even more to see [here](https://github.com/Mesabloo?tab=repositories)! (where in fact most of the projects have been left behind)
 
+Just a little bit of statistics:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mesabloo&show_icons=true&theme=graywhite&hide_rank=true&include_all_commits=true&count_private=true&hide_title=true&hide_border=true"/>
+
 #### And I do have some other hobbies!
 
-Even though I waste most of my time behing my screen, on my keyboard, I also enjoy eating, tinkering (I like to make rings for no reason), and playing games like BeamNG.Drive or World of Tanks. :video_game:
+Even though I waste most of my time in front of my screen, on my keyboard, I also enjoy eating, tinkering (I like to make rings for no reason), and playing games like BeamNG.Drive or World of Tanks. :video_game:
 
 #### Anything to add?
 
