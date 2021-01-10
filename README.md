@@ -40,9 +40,11 @@ I further evolved into making more unfinished programming languages! :tada:
   - nobody had interest anymore in it. 
   
   So I restarted everything, again...
-  I now plan on creating another monstrosity: a low-level functional programming language inspired by Haskell and Rust, featuring type- and data-safety through linear types and such, a typesafe embedding of a typed assembly language named [N*](https://github.com/zilch-lang/nsc), and compiling to N*.
+  I am now creating another monstrosity: a low-level functional programming language inspired by Haskell and Rust, featuring type- and data-safety through linear types and such, and compiling to [N*](https://github.com/zilch-lang/nsc), a low-level typed assembly language.
+  I'm also trying to formalize the language as can be seen [here](https://github.com/zilch-lang/specification).
 
   [![zilch repository](https://github-readme-stats.vercel.app/api/pin/?username=zilch-lang&repo=gzc&show_owner=true&theme=graywhite)](https://github.com/zilch-lang/gzc) [![nstar repository](https://github-readme-stats.vercel.app/api/pin/?username=zilch-lang&repo=nsc&show_owner=true&theme=graywhite)](https://github.com/zilch-lang/nsc)
+  [![specification repository](https://github-readme-stats.vercel.app/api/pin/?username=zilch-lang&repo=specification&show_owner=true&theme=graywhite)](https://github.com/zilch-lang/specification)
   
 I also have some other side projects, like my custom [virtual CPU](https://github.com/mesabloo/vcpu) or my [Haskell assembly DSL](https://github.com/mesabloo/hasm). But there is even more to see [here](https://github.com/Mesabloo?tab=repositories)! (where in fact most of the projects have been left behind)
 
