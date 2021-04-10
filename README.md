@@ -27,12 +27,11 @@ I further evolved into making more unfinished programming languages! :tada:
   The language (Blob) got to a stage where I dropped some features, even before trying to implement them (like the QTT), because of how complicated things would become.
   I later renamed the language “Nihil”, in reference to the fact that's there nothing usable in this programming language.
   
-  ~~The repository ([this one](https://github.com/mesabloo/nihil)) is currently the holder of the most :star: on my profile!~~
-  The repository has been moved [here](https://github.com/zilch-lang). The language has also been renamed to “Zilch”, which literally means “nothing”, in English.
+  The repository ([this one](https://github.com/mesabloo/nihil)) is currently the holder of the most :star: on my profile!
   
   [![nihil repository](https://github-readme-stats.vercel.app/api/pin/?username=mesabloo&repo=nihil&show_owner=true&theme=graywhite)](https://github.com/mesabloo/nihil)
   
-- My new project, [Zilch](https://github.com/zilch-lang/gzc) is mostly a rework of Nihil. Things did not end well for it (the code is still available [here](https://github.com/mesabloo/nihil_old)). To keep things short:
+- My new project, [Zilch](https://github.com/zilch-lang/gzc) is mostly a rework of Nihil. Things did not end well for it (the code is still available [here](https://github.com/mesabloo/nihil)). To keep things short:
   - my motivation decreased quite a lot
   - I worked on another project
   - the code written was undocumented and not necessarily easy to maintain if ever I had to
