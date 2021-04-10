@@ -30,7 +30,7 @@ I further evolved into making more unfinished programming languages! :tada:
   ~~The repository ([this one](https://github.com/mesabloo/nihil)) is currently the holder of the most :star: on my profile!~~
   The repository has been moved [here](https://github.com/zilch-lang). The language has also been renamed to “Zilch”, which literally means “nothing”, in English.
   
-  [![nihil repository](https://github-readme-stats.vercel.app/api/pin/?username=mesabloo&repo=nihil_old&show_owner=true&theme=graywhite)](https://github.com/mesabloo/nihil_old)
+  [![nihil repository](https://github-readme-stats.vercel.app/api/pin/?username=mesabloo&repo=nihil&show_owner=true&theme=graywhite)](https://github.com/mesabloo/nihil)
   
 - My new project, [Zilch](https://github.com/zilch-lang/gzc) is mostly a rework of Nihil. Things did not end well for it (the code is still available [here](https://github.com/mesabloo/nihil_old)). To keep things short:
   - my motivation decreased quite a lot
